@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+    .bgnavcolor{
+        background-color: #060024;
+        
+    }
+    .bgr_img{
+        background-image: url(../images/overlay.png);
+    }
+    
+    .bgfoootercolor{
+        background-color: #212529;
+    }
